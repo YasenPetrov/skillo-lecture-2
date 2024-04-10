@@ -1,5 +1,5 @@
 # skillo-lecture-2
 
-Helloooooo!
+Hello!
 
 How are you?
